@@ -1,0 +1,14 @@
+{
+  "name": "2.math_game_html_css_and_js",
+  "version": "1.0.0",
+  "description": "math web game for practice: html, css, sass, js.",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "node-sass style.scss style.css -w"
+  },
+  "author": "hasib",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
